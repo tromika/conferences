@@ -12,3 +12,7 @@ Tamas Szuromi - Clickstream analytics and A/B Testing with Native apps - http://
 ### Startup Safari 2017
 Tamas Szuromi - Shine or fly! Which data visualization tool fits you the most? - http://github.com/tromika/talks/tree/master/startupsafari2017
 ---
+
+### Budapest Data 2017
+Tamas Szuromi - Building an analytics platform on Mesos, Docker and Spark - http://github.com/tromika/talks/tree/master/budapestdata2017
+---
