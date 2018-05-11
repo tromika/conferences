@@ -16,3 +16,7 @@ Tamas Szuromi - Shine or fly! Which data visualization tool fits you the most? -
 ### Budapest Data 2017
 Tamas Szuromi - Building an analytics platform on Mesos, Docker and Spark - http://github.com/tromika/talks/tree/master/budapestdata2017
 ---
+
+### Budapest BI 2017
+Tamas Szuromi - The evolution of data-driven culture in the online travel - http://github.com/tromika/talks/tree/master/budapestbi2017
+---
